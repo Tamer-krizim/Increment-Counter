@@ -1,5 +1,5 @@
 # Increment-Counter
-
+![](images/github-small)
 
 Increment Counter using HTML &amp; CSS and JS
 
